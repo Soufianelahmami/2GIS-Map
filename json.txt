@@ -41,13 +41,18 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"2GIS is a detailed directory with city maps and a navigator for car drivers and pedestrians. Use it online or download the city map to your device to never get lost without the internet.",
+   "photo1":"https://iili.io/J9aq8aj.webp"},
+  {"desc2":"internet.With 2GIS navigation, you will feel at home even in an unfamiliar place:— easily find the address, company, phone number, working hours, goods or services;",
+"photo2":"https://iili.io/J9aqv3b.webp"},
+  {"desc3":"find out how to get there by car, bus, metro, or follow the navigator on foot;— find an entrance to a company, or an entrance to a buildingAll about the buildings. 2GIS shows addresses, entrances, and postal codes.",
+"photo3":"https://iili.io/J9aqv3b.webp"},
+  {"desc4":"Detailed directory. 2GIS knows phone numbers, working hours, social networks, websites, and entrance locations. Users add photos of companies and write reviews.",
+"photo4":"https://iili.io/J9aqe6u.webp"},
+  {"desc5":"reviews.Accurate map. Locate districts, buildings, streets, bus stops, metro stations, gas stations, sports grounds, and other objects in 2GIS.Navigator. ",
+"photo5":"https://iili.io/J9aqS8x.webp"},
+  {"descd":"Considers real-time traffic jams, road signs, traffic cameras, toll and unpaved roads, builds routes between cities and through several points. There is also a free app for Android Auto.",
+"photod":"https://iili.io/J9aqe6u.webp"}
    ]
  
 }
